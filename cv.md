@@ -1,5 +1,5 @@
 1. Andrei Mandryk
-2. +48 570 211 399 *(phone number)*; [mailto](mailto:gagarin880120@gmail.com)
+2. +48 570 211 399 *(phone number)*; e-mail: [gagarin880120@gmail.com](mailto:gagarin880120@gmail.com)
 3. 
 4. HTML/CSS, JavaScript basics
 5. 
@@ -12,5 +12,5 @@ function sum (x, n) {
 alert ( sum(x,n) );
 ```
 6.  
-7. Belarusian University of Culture and Arts.
+7. Belarusian University of Culture and Arts
 8. English level A2.
