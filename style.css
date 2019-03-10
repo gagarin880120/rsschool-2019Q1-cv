@@ -1,13 +1,20 @@
 header {
     width: 1024px;
     margin: 0 auto;
-  
+    text-align: justify;
 }
 
 hr {
     border: 0.5px solid grey;
 }
 main {
+    width: 1024px;
+    margin: 0 auto;
+    text-align: justify;
+
+}
+
+footer {
     width: 1024px;
     margin: 0 auto;
     text-align: justify;
