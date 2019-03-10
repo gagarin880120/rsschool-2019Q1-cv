@@ -4,9 +4,11 @@ header {
   
 }
 
-
-
-
 hr {
     border: 0.5px solid grey;
+}
+main {
+    width: 1024px;
+    margin: 0 auto;
+    text-align: justify;
 }
