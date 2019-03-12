@@ -1,21 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:200,200i,400,400i,600,600i,700,700i');
+
+body{
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
 header {
     width: 1024px;
     margin: 0 auto;
     text-align: justify;
+    
+    background-color: #2d3236;
+    color: #fdfbfc;
+     
 }
 
-hr {
-    border: 0.5px solid grey;
+div.contact {
+    margin-left: 560px;
 }
+
+a {
+    text-decoration: none;
+    color: #fdfbfc;
+    font-weight: 200;
+}
+
+h1  {
+    width: 420px;
+    font-size: 55px;
+    text-indent: 45px;
+    padding-top: 40px;
+    font-weight: 600;
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+}
+
+h2{
+    margin-block-start: 0px;
+    margin-block-end: 0px;
+    text-indent: 45px;
+    font-weight: 600;
+    font-size: 28px;
+}
+
+img {
+    margin-left: 620px;
+    margin-top: -120px;
+}
+
+
+
 main {
     width: 1024px;
     margin: 0 auto;
     text-align: justify;
 
 }
+main p {
+    font-size: 18px;
+}
+
+h3 {
+    color: #747577;
+    font-size: 26px;
+}
+
+
+hr {
+    border: 0.5px solid grey;
+}
+
+
 
 footer {
+    height: 50px;
     width: 1024px;
     margin: 0 auto;
-    text-align: justify;
+    
+    text-align: center;
+    background-color: #e1e0de;
 }
